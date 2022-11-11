@@ -6,6 +6,7 @@
 -->
 
 # Communicate using Markdown
+## modified by Geoff Short
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
